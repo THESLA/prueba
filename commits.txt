@@ -1,0 +1,29 @@
+commit 92f623dde512e40b8ec45acd28257e238ecbda44
+Author: James <jamesraveloc52@gmail.com>
+Date:   Fri Oct 30 16:31:38 2015 -0500
+
+    ultimos areglos
+
+commit 1fcda1cb8385225bf151ad15be6807f57638dbc6
+Author: James <jamesraveloc52@gmail.com>
+Date:   Fri Oct 30 16:28:01 2015 -0500
+
+    agrege redes sociales
+
+commit 58dd4441238c2a2ecbe17d08552748d388368dc4
+Author: James <jamesraveloc52@gmail.com>
+Date:   Fri Oct 30 16:22:48 2015 -0500
+
+    perfil web
+
+commit e747f9611071796686345face956420dd6ca61d0
+Author: James <jamesraveloc52@gmail.com>
+Date:   Fri Oct 30 16:20:24 2015 -0500
+
+    subi  foto y puse mi nombre
+
+commit 2ded120e50969d65af3759e5b2769e5d1e37d7e4
+Author: James <jamesraveloc52@gmail.com>
+Date:   Fri Oct 30 16:14:19 2015 -0500
+
+    estos son los archivos base de mi portafolio
